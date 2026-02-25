@@ -1,56 +1,177 @@
-# Hi there, I'm Mohamed Mubarak 👋 
-### 📱 Android Developer | Java & XML Specialist | Kotlin Learner
-
-أنا مطور تطبيقات أندرويد شغوف، أمتلك أساسيات برمجية متينة بنيتها من خلال دراسة معمقة للغة **Java** وهيكلية نظام **Android**. أؤمن بأن البرمجة هي فن حل المشكلات، ولدي القدرة على تطويع أدوات الذكاء الاصطناعي لرفع كفاءة الكود وبناء حلول مبتكرة.
+# <p align="center">Mohamed Mubarak 📱</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3DDC84&center=true&vCenter=true&width=435&lines=Android+Developer;Java+%26+XML+Specialist;Problem+Solver;AI+Enthusiast" alt="Typing SVG" />
+</p>
 
 ---
 
 ### 🚀 نبذة عني (About Me)
-- 🌍 مقيم في السودان، ولدي قدرة عالية على التعلم الذاتي وتجاوز التحديات التقنية.
-- 🎓 درست مسار Java المتقدم و Algorithms بعمق لضمان كتابة كود نظيف وفعال.
-- 🎯 حالياً: أقوم بنقل خبراتي في Java إلى لغة **Kotlin** لتوسيع مهاراتي في تطوير الأندرويد.
-- 💡 أستطيع تحليل المشكلات البرمجية المعقدة وحلها باستخدام التفكير المنطقي وأحدث أدوات الـ AI.
+أنا مطور أندرويد أمتلك شغفاً كبيراً ببناء تطبيقات متينة وواجهات مستخدم جذابة. تميزت مسيرتي بالتعلم الذاتي المستمر، حيث استطعت بناء أساس قوي في **Java** والـ **Algorithms** من خلال أفضل المصادر العربية والعالمية.
+
+- 💡 **منهجيتي:** دمج المنطق البرمجي القوي مع أحدث أدوات الذكاء الاصطناعي لسرعة التنفيذ ودقة الأداء.
+- 🇸🇩 **التحدي:** فخور بقدرتي على التعلم والنمو رغم كافة القيود التقنية، مما جعلني مبرمجاً مرناً وقادراً على التكيف.
+- 🌱 **حالياً:** أقوم بنقل خبراتي الواسعة في Java إلى عالم **Kotlin**.
 
 ---
 
-### 🛠 التقنيات والأدوات (Tech Stack)
+### 🛠 التقنيات والمهارات (Tech Stack)
 
-| المجال | الأدوات واللغات |
-| :--- | :--- |
-| **لغات البرمجة** | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) |
-| **تطوير الأندرويد** | ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![XML](https://img.shields.io/badge/XML-%23FF6600.svg?style=for-the-badge&logo=xml&logoColor=white) |
-| **بيئة التطوير (IDE)** | ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255.svg?style=for-the-badge&logo=eclipse-ide&logoColor=white) |
-| **الأساسيات** | `Algorithms` `Problem Solving` `Computer Science Basics` |
-
----
-
-### 🎓 المسار التعليمي والدورات (Learning Journey)
-
-لقد أتممت مسارات تعليمية مكثفة مع نخبة من عمالقة البرمجة:
-- 🟢 **Java (Basics to Advanced):** دورات المهندس *محمد عيسى*، والمهندس *عبدالله عيد* (Java 101-104)، وقناة *Lazy Programmers*.
-- 🔵 **Android Development:** تعلمت بناء التطبيقات من الصفر مع *حسين الربيعي*، *محمد عيسى*، و*عبدالله عيد*.
-- 🔴 **Algorithms & Logic:** دراسة معمقة في حل المشكلات مع الأستاذ *أبو هدهود*.
-- 🟡 **Computer Science:** أساسيات الحاسوب العامة مع الأستاذ *علي شاهين*.
-- 🏛 **Oracle:** دراسة مكثفة لتقنيات أوراكل (التعلم مستمر رغم قيود الحظر).
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
-### 🏗️ المشاريع المميزة (Top Projects)
-*المشاريع حالياً في مرحلة الصقل والرفع، قريباً ستشاهدون هنا:*
-1. **[Project Name 1]**: تطبيق أندرويد يعتمد على Java و XML (قيد التطوير).
-2. **[Project Name 2]**: تطبيق يركز على كفاءة الـ UI باستخدام Material Design.
-3. **[Algorithm Challenges]**: مستودع يضم حلول لمشكلات برمجية معقدة.
+### 🎓 المسار التعليمي المتميز (Education)
+
+- 🏫 **الشهادة الثانوية:** [اسم مدرستك] - السودان (تركيز علمي ومنطقي).
+- 🏆 **مسار Java الاحترافي:** تعلمت من عمالقة المحتوى (محمد عيسى، عبدالله عيد Java 101-104، Lazy Programmers).
+- 🧠 **الخوارزميات:** دراسة معمقة مع المهندس *محمد أبو هدهود* (Problem Solving).
+- 🤖 **Android Native:** إتقان بناء التطبيقات مع *حسين الربيعي، محمد عيسى، وعبدالله عيد*.
+- 💻 **Computer Science:** أساسيات الحاسوب مع الأستاذ *علي شاهين*.
+- 🏛 **Oracle Technologies:** دراسة ذاتية مكثفة لتقنيات أوراكل.
 
 ---
 
-### 📊 إحصائيات GitHub
-![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MOHAMMED_USER_NAME&show_icons=true&theme=dracula)
+### 🏗️ مشاريع في المختبر (Projects Under Construction)
+*أعمل حالياً على صقل هذه المشاريع لرفعها بأعلى معايير الجودة:*
+- 📱 **تطبيق إدارة مهام متقدم:** يعتمد على Java و XML Layouts.
+- 🎨 **مكتبة واجهات Material Design:** مخصصة لتطبيقات الأندرويد الأصلية.
 
 ---
 
-### 📫 تواصل معي (Let's Connect)
-- 📧 **البريد الإلكتروني:** [Mohammed.mobile.dev123@gmail.com](mailto:Mohammed.mobile.dev123@gmail.com)
-- 🔵 **فيسبوك:** [Mohamed Mubarak](https://facebook.com/mohammed.dev)
+### 📫 تواصل معي (Get in Touch)
+<p align="left">
+<a href="mailto:Mohammed.mobile.dev123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="# <p align="center">Mohamed Mubarak 📱</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3DDC84&center=true&vCenter=true&width=435&lines=Android+Developer;Java+%26+XML+Specialist;Problem+Solver;AI+Enthusiast" alt="Typing SVG" />
+</p>
 
 ---
-> "البرمجة ليست مجرد كتابة كود، بل هي بناء حلول تغير حياة الناس."
+
+### 🚀 نبذة عني (About Me)
+أنا مطور أندرويد أمتلك شغفاً كبيراً ببناء تطبيقات متينة وواجهات مستخدم جذابة. تميزت مسيرتي بالتعلم الذاتي المستمر، حيث استطعت بناء أساس قوي في **Java** والـ **Algorithms** من خلال أفضل المصادر العربية والعالمية.
+
+- 💡 **منهجيتي:** دمج المنطق البرمجي القوي مع أحدث أدوات الذكاء الاصطناعي لسرعة التنفيذ ودقة الأداء.
+- 🇸🇩 **التحدي:** فخور بقدرتي على التعلم والنمو رغم كافة القيود التقنية، مما جعلني مبرمجاً مرناً وقادراً على التكيف.
+- 🌱 **حالياً:** أقوم بنقل خبراتي الواسعة في Java إلى عالم **Kotlin**.
+
+---
+
+### 🛠 التقنيات والمهارات (Tech Stack)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 🎓 المسار التعليمي المتميز (Education)
+
+- 🏫 **الشهادة الثانوية:** [اسم مدرستك] - السودان (تركيز علمي ومنطقي).
+- 🏆 **مسار Java الاحترافي:** تعلمت من عمالقة المحتوى (محمد عيسى، عبدالله عيد Java 101-104، Lazy Programmers).
+- 🧠 **الخوارزميات:** دراسة معمقة مع المهندس *محمد أبو هدهود* (Problem Solving).
+- 🤖 **Android Native:** إتقان بناء التطبيقات مع *حسين الربيعي، محمد عيسى، وعبدالله عيد*.
+- 💻 **Computer Science:** أساسيات الحاسوب مع الأستاذ *علي شاهين*.
+- 🏛 **Oracle Technologies:** دراسة ذاتية مكثفة لتقنيات أوراكل.
+
+---
+
+### 🏗️ مشاريع في المختبر (Projects Under Construction)
+*أعمل حالياً على صقل هذه المشاريع لرفعها بأعلى معايير الجودة:*
+- 📱 **تطبيق إدارة مهام متقدم:** يعتمد على Java و XML Layouts.
+- 🎨 **مكتبة واجهات Material Design:** مخصصة لتطبيقات الأندرويد الأصلية.
+
+---
+
+### 📫 تواصل معي (Get in Touch)
+<p align="left">
+<a href="mailto:Mohammed.mobile.dev123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="# <p align="center">Mohamed Mubarak 📱</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3DDC84&center=true&vCenter=true&width=435&lines=Android+Developer;Java+%26+XML+Specialist;Problem+Solver;AI+Enthusiast" alt="Typing SVG" />
+</p>
+
+---
+
+### 🚀 نبذة عني (About Me)
+أنا مطور أندرويد أمتلك شغفاً كبيراً ببناء تطبيقات متينة وواجهات مستخدم جذابة. تميزت مسيرتي بالتعلم الذاتي المستمر، حيث استطعت بناء أساس قوي في **Java** والـ **Algorithms** من خلال أفضل المصادر العربية والعالمية.
+
+- 💡 **منهجيتي:** دمج المنطق البرمجي القوي مع أحدث أدوات الذكاء الاصطناعي لسرعة التنفيذ ودقة الأداء.
+- 🇸🇩 **التحدي:** فخور بقدرتي على التعلم والنمو رغم كافة القيود التقنية، مما جعلني مبرمجاً مرناً وقادراً على التكيف.
+- 🌱 **حالياً:** أقوم بنقل خبراتي الواسعة في Java إلى عالم **Kotlin**.
+
+---
+
+### 🛠 التقنيات والمهارات (Tech Stack)
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse-ide&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 🎓 المسار التعليمي المتميز (Education)
+
+- 🏫 **الشهادة الثانوية:** [اسم مدرستك] - السودان (تركيز علمي ومنطقي).
+- 🏆 **مسار Java الاحترافي:** تعلمت من عمالقة المحتوى (محمد عيسى، عبدالله عيد Java 101-104، Lazy Programmers).
+- 🧠 **الخوارزميات:** دراسة معمقة مع المهندس *محمد أبو هدهود* (Problem Solving).
+- 🤖 **Android Native:** إتقان بناء التطبيقات مع *حسين الربيعي، محمد عيسى، وعبدالله عيد*.
+- 💻 **Computer Science:** أساسيات الحاسوب مع الأستاذ *علي شاهين*.
+- 🏛 **Oracle Technologies:** دراسة ذاتية مكثفة لتقنيات أوراكل.
+
+---
+
+### 🏗️ مشاريع في المختبر (Projects Under Construction)
+*أعمل حالياً على صقل هذه المشاريع لرفعها بأعلى معايير الجودة:*
+- 📱 **تطبيق إدارة مهام متقدم:** يعتمد على Java و XML Layouts.
+- 🎨 **مكتبة واجهات Material Design:** مخصصة لتطبيقات الأندرويد الأصلية.
+
+---
+
+### 📫 تواصل معي (Get in Touch)
+<p align="left">
+<a href="mailto:Mohammed.mobile.dev123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="[https://facebook.com/mohammed.dev](https://www.facebook.com/smt.al.ywn.255326)"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</p>
+
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</p>
+
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</p>
+
+---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
