@@ -1,4 +1,4 @@
-# <p align="center">Mohamed Mubarak 📱</p>
+No# <p align="center">Mohamed Mubarak 📱</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3DDC84&center=true&vCenter=true&width=435&lines=Android+Developer;Java+%26+XML+Specialist;Problem+Solver;AI+Enthusiast" alt="Typing SVG" />
 </p>
@@ -56,4 +56,7 @@
 ---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+</p> 
+
+## معلومات التواصل
+📱 **رقم الهاتف:** +966501234567
