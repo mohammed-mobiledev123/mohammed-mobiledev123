@@ -1,4 +1,4 @@
-No# <p align="center">Mohamed Mubarak 📱</p>
+<p align="center">Mohamed Mubarak 📱</p>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3DDC84&center=true&vCenter=true&width=435&lines=Android+Developer;Java+%26+XML+Specialist;Problem+Solver;AI+Enthusiast" alt="Typing SVG" />
 </p>
@@ -10,7 +10,7 @@ No# <p align="center">Mohamed Mubarak 📱</p>
 
 - 💡 **منهجيتي:** دمج المنطق البرمجي القوي مع أحدث أدوات الذكاء الاصطناعي لسرعة التنفيذ ودقة الأداء.
 - 🇸🇩 **التحدي:** فخور بقدرتي على التعلم والنمو رغم كافة القيود التقنية، مما جعلني مبرمجاً مرناً وقادراً على التكيف.
-- 🌱 **حالياً:** أقوم بنقل خبراتي الواسعة في Java إلى عالم **Kotlin**.
+- 🌱 **حالياً:** أقوم بنقل خبراتي الواسعة in Java إلى عالم **Kotlin**.
 
 ---
 
@@ -29,12 +29,30 @@ No# <p align="center">Mohamed Mubarak 📱</p>
 
 ---
 
-### 🎓 المسار التعليمي المتميز (Education)
+### 📚 الدورات والشهادات (Courses & Certifications)
+*اضغط على اسم الدورة للانتقال إلى مصدرها مباشرة:*
 
-- 🏫 **الشهادة الثانوية:** [ههيد الشريف الثانةيه] - السودان (تركيز علمي ومنطقي).
-- 🏆 **مسار Java الاحترافي:** تعلمت من عمالقة المحتوى (محمد عيسى، عبدالله عيد Java 101-104، Lazy Programmers).
-- 🧠 **الخوارزميات:** دراسة معمقة مع المهندس *محمد أبو هدهود* (Problem Solving).
-- 🤖 **Android Native:** إتقان بناء التطبيقات مع *حسين الربيعي، محمد عيسى، وعبدالله عيد*.
+1. ☕ **[دورة جافا 101 للمدرب عبدالله عيد](http://www.youtube.com/playlist?list=PL28DDB2DCF87BEE43)**
+2. ☕ **[دورة جافا 102 للمدرب عبدالله عيد](http://www.youtube.com/playlist?list=PL138BE19EA2405C94)**
+3. ☕ **[دورة جافا 103 للمدرب عبدالله عيد](http://www.youtube.com/playlist?list=PLA94A6FB67AB4CD0D)**
+4. ☕ **[دورة جافا 104 للمدرب عبدالله عيد](http://www.youtube.com/playlist?list=PLC2TwLsbVZ-2SWBNPgkumwdrRevLdVk3w)**
+5. 🧠 **[كورس رقم 1 - البدايه من هنا: أساسيات مهمه لكل مبرمج للأستاذ ابو هدهود](http://www.youtube.com/playlist?list=PL3X--QIIK-OHgMV2yBz3GLfM5d_5BxOSj)**
+7. 🧠 **[كورس رقم 2 - سلسلة الخوارزميات وحل المشاكل المستوى الأول للأستاذ ابو هدهود](http://www.youtube.com/playlist?list=PL3X--QIIK-OEUIwbQU79V76RHelBUQKiz)**
+8. 🤖 **[دورة Android101 للمدرب عبدالله عيد](رابط_الدورة_هنا)**
+9. ☕ **[كورس الجافا كاملاً - قناة Lazy programmers](http://www.youtube.com/playlist?list=PLjTzpE6cvFak0CToStX3aHn6nXPdQz6d0)**
+10. 🤖 **[كورس الاندرويد كاملا - قناة Lazy programmers](http://www.youtube.com/playlist?list=PLjTzpE6cvFakLb80cpN-9vUcGgL_BbOPI)**
+11. ☕ **[دورة أساسيات برمجة الجافا JAVA programming للأستاذ Muhammed Essa](http://www.youtube.com/playlist?list=PLMYF6NkLrdN817O88GXt4xAPmM2bD7pLN)**
+12. 🚀 **[دورة جافا متقدم JAVA Advanced للأستاذ محمد عيسى] (http://www.youtube.com/playlist?list=PLMYF6NkLrdN85yXTEQzDcHbmZHCyuCDnK)**
+13. 🛠️ **[دورة اندرويد ستوديو Android Studio tutorial للأستاذ محمد عيسى](http://www.youtube.com/playlist?list=PLMYF6NkLrdN8giOLjGRx81fjEIaE5ef-8)**
+14. 📊 **[دورة Java - Algorithm & Data Structure للمدرب Mostafa Kamel](http://www.youtube.com/playlist?list=PL1DJ6OWPtJu5u9PNalQ0oqurl4GVN3wJn)**
+15. 🗂️ **[تراكيب البيانات بلغة الجافا | Data Structure - قناة ProgMan](http://www.youtube.com/playlist?list=PLkyFXC9qmRMVyYEOecGFqHAm2eXkPkefy)**
+
+---
+
+### 🎓 المسار التعليمي (Education)
+
+- 🏫 **الشهادة الثانوية:** مدرسة مهيد الشريف الثانوية - السودان (تركيز علمي ومنطقي).
+- 🏆 **مسار Java الاحترافي:** تعلم ذاتي مكثف من عمالقة المحتوى العربي والعالمي.
 - 💻 **Computer Science:** أساسيات الحاسوب مع الأستاذ *علي شاهين*.
 - 🏛 **Oracle Technologies:** دراسة ذاتية مكثفة لتقنيات أوراكل.
 
@@ -42,7 +60,7 @@ No# <p align="center">Mohamed Mubarak 📱</p>
 
 ### 🏗️ مشاريع في المختبر (Projects Under Construction)
 *أعمل حالياً على صقل هذه المشاريع لرفعها بأعلى معايير الجودة:*
-- 📱 **تطبيق إدارة مهام متقدم:** يعتمد على Java و XML Layouts.
+- 📱 **تطبيق إدارة مهام متقدم (Tasker):** يعتمد على Java و XML Layouts.
 - 🎨 **مكتبة واجهات Material Design:** مخصصة لتطبيقات الأندرويد الأصلية.
 
 ---
@@ -56,4 +74,4 @@ No# <p align="center">Mohamed Mubarak 📱</p>
 ---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p> 
+</p>
