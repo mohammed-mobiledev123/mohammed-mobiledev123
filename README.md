@@ -35,10 +35,10 @@
 1. ☕ **[دورة جافا 101 للمدرب عبدالله عيد](http://www.youtube.com/playlist?list=PL28DDB2DCF87BEE43)**
 2. ☕ **[دورة جافا 102 للمدرب عبدالله عيد](http://www.youtube.com/playlist?list=PL138BE19EA2405C94)**
 3. ☕ **[دورة جافا 103 للمدرب عبدالله عيد](http://www.youtube.com/playlist?list=PLA94A6FB67AB4CD0D)**
-4. ☕ **[دورة جافا 104 للمدرب عبدالله عيد](http://www.youtube.com/playlist?list=PLC2TwLsbVZ-2SWBNPgkumwdrRevLdVk3w)**
+4. ☕ **[دورة جافا 104 للمدرب عبدالله عيد](http://www.youtube.com/playlist?list=PLqmVQqNLdVv11bup4o0bRR4zxG2Gu05gX)**
 5. 🧠 **[كورس رقم 1 - البدايه من هنا: أساسيات مهمه لكل مبرمج للأستاذ ابو هدهود](http://www.youtube.com/playlist?list=PL3X--QIIK-OHgMV2yBz3GLfM5d_5BxOSj)**
 7. 🧠 **[كورس رقم 2 - سلسلة الخوارزميات وحل المشاكل المستوى الأول للأستاذ ابو هدهود](http://www.youtube.com/playlist?list=PL3X--QIIK-OEUIwbQU79V76RHelBUQKiz)**
-8. 🤖 **[دورة Android101 للمدرب عبدالله عيد](رابط_الدورة_هنا)**
+8. 🤖 **[دورة Android101 للمدرب عبدالله عيد](http://www.youtube.com/playlist?list=PL987D0B965F799760)**
 9. ☕ **[كورس الجافا كاملاً - قناة Lazy programmers](http://www.youtube.com/playlist?list=PLjTzpE6cvFak0CToStX3aHn6nXPdQz6d0)**
 10. 🤖 **[كورس الاندرويد كاملا - قناة Lazy programmers](http://www.youtube.com/playlist?list=PLjTzpE6cvFakLb80cpN-9vUcGgL_BbOPI)**
 11. ☕ **[دورة أساسيات برمجة الجافا JAVA programming للأستاذ Muhammed Essa](http://www.youtube.com/playlist?list=PL987D0B965F799760)**
