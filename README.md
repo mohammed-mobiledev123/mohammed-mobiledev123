@@ -41,8 +41,8 @@
 8. 🤖 **[دورة Android101 للمدرب عبدالله عيد](http://www.youtube.com/playlist?list=PL987D0B965F799760)**
 9. ☕ **[كورس الجافا كاملاً - قناة Lazy programmers](http://www.youtube.com/playlist?list=PLjTzpE6cvFak0CToStX3aHn6nXPdQz6d0)**
 10. 🤖 **[كورس الاندرويد كاملا - قناة Lazy programmers](http://www.youtube.com/playlist?list=PLjTzpE6cvFakLb80cpN-9vUcGgL_BbOPI)**
-11. ☕ **[دورة أساسيات برمجة الجافا JAVA programming للأستاذ Muhammed Essa](http://www.youtube.com/playlist?list=PL987D0B965F799760)**
-12. 🚀 **[دورة جافا متقدم JAVA Advanced للأستاذ محمد عيسى](http://www.youtube.com/playlist?list=PLMYF6NkLrdN85yXTEQzDcHbmZHCyuCDnk)**
+11. ☕ **[دورة أساسيات برمجة الجافا JAVA programming للأستاذ Muhammed Essa](http://www.youtube.com/playlist?list=PLMYF6NkLrdN817O88GXt4xAPmM2bD7pLN)**
+12. 🚀 **[دورة جافا متقدم JAVA Advanced للأستاذ محمد عيسى](http://www.youtube.com/playlist?list=PLMYF6NkLrdN85yXTEQzDcHbmZHCyuCDnK)**
 13. 🛠️ **[دورة اندرويد ستوديو Android Studio tutorial للأستاذ محمد عيسى](http://www.youtube.com/playlist?list=PLMYF6NkLrdN8giOLjGRx81fjEIaE5ef-8)**
 14. 📊 **[دورة Java - Algorithm & Data Structure للمدرب Mostafa Kamel](http://www.youtube.com/playlist?list=PL1DJ6OWPtJu5u9PNalQ0oqurl4GVN3wJn)**
 15. 🗂️ **[تراكيب البيانات بلغة الجافا | Data Structure - قناة ProgMan](http://www.youtube.com/playlist?list=PLkyFXC9qmRMVyYEOecGFqHAm2eXkPkefy)**
